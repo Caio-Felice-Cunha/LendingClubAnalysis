@@ -20,7 +20,7 @@ We assume that the company wants an analysis of the dataset provided, but for th
 For data cleaning and pre-processing, we use several data science techniques to handle null and categorical values.<br>
 We chose the Python language and the Numpy library, due to their efficiency and speed.
 
-## r(Next Steps)
+## Next Steps
 * Create a Business Report;
 * Create a Power BI Dashboard;
 * Data Insights;
