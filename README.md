@@ -7,6 +7,7 @@ Clean and pre-process the data with Python Numpy
 
 ## Business Problem
 > Data source: https://www.openintro.org/data/index.php?data=loans_full_schema. Data source for quotation: https://finance.yahoo.com/
+
 LendingClub is a financial services company. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission, and to offer loan trading on a secondary market.<br>
 The first problem that will be solved is the one involving the dataset that needs several adjustments.<br>
 So the main problem to be solved at this moment is to clean and pre-process the data.<br>
