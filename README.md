@@ -1,9 +1,13 @@
 # LendingClubAnalysis
-Clean and pre-process the data with Python Numpy
+Clean and pre-process the data with Python Numpy<br>
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDkzZTM5OTUtNTBmMC00NWQxLTk3MjYtMGJlYzRjZmIwNDc2IiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
+[Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/226971228-d74318e7-66ad-4aee-b79b-41813e514684.png>
 
-## This is the 1st version
+## This is the 2nd version
+### Improvements compared to the last version:
+* Power BI Dashboard (Report)
 
 ## Business Problem
 > Data source: https://www.openintro.org/data/index.php?data=loans_full_schema. Data source for quotation: https://finance.yahoo.com/
@@ -22,7 +26,6 @@ We chose the Python language and the Numpy library, due to their efficiency and 
 
 ## Next Steps
 * Create a Business Report;
-* Create a Power BI Dashboard;
 * Data Insights;
 * Business Results;
 * Conclusions
