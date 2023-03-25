@@ -29,3 +29,4 @@ We chose the Python language and the Numpy library, due to their efficiency and 
 * Data Insights;
 * Business Results;
 * Conclusions
+* Understand the correlation between variables
