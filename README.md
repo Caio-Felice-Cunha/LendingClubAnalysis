@@ -25,8 +25,4 @@ For data cleaning and pre-processing, we use several data science techniques to 
 We chose the Python language and the Numpy library, due to their efficiency and speed.
 
 ## Next Steps
-* Create a Business Report;
-* Data Insights;
-* Business Results;
-* Conclusions
-* Understand the correlation between variables
+* Accepting suggestions
