@@ -26,3 +26,6 @@ We chose the Python language and the Numpy library, due to their efficiency and 
 
 ## Next Steps
 * Accepting suggestions
+
+## Disclaimer
+A good part of this project was largely done in the Data Science Academy, Big Data Real-Time Analytics with Python and Spark course (part of the Data Scientist training)
