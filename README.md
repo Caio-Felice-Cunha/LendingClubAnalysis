@@ -23,6 +23,23 @@ We assume that the company wants an analysis of the dataset provided, but for th
 ## Solution Strategy
 For data cleaning and pre-processing, we use several data science techniques to handle null and categorical values.<br>
 We chose the Python language and the Numpy library, due to their efficiency and speed.
+* Step 01: Import the data and analyze the quality of it;
+* Step 02: Checking for Missing Values;
+* Step 03: Manipulating String Columns;
+* Step 04: Preprocessing the issue_date Variable with Label Encoding;
+* Step 05: Pre-Processing of the variable loan_status with Binarization;
+* Step 06: Pre-Processing the term Variable with String Cleanup;
+* Step 07: Pre-Processing Grade and sub_grade Variables with Dictionary (Like Label Encoding);
+* Step 08: Pre-Processing the Verification Status Variable with Binarization;
+* Step 09: Pre-Processing the url Variable with ID Extraction;
+* Step 10: Pre-Processing of the Address Variable with Categorization;
+* Step 10: Converting the array;
+* Step 11: Manipulating Numeric Columns;
+* Step 12: Pre-Processing the funded_amnt, Loan_amnt, int_rate, installment and total_pymnt Variable;
+* Step 13: Building the Final Dataset;
+* Step 14: Writing the Final Clean and Pre-Processed Dataset.
+
+
 
 ## Next Steps
 * Accepting suggestions
